@@ -1,0 +1,7 @@
+--- Extrato ---
+Data e Hora: 2024-05-14 14:19:00.619720
+Depósitos:
+Saque de R$ 130.00
+Saque de R$ 120.00
+Saque de R$ 140.00
+Saldo atual: R$ 2610.00
